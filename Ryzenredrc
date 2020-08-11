@@ -19,14 +19,14 @@ UseTextShadow=true
 
 
 [Layout]
-PaddingTop=4
-PaddingRight=6
-PaddingBottom=6
-PaddingLeft=6
+PaddingTop=3
+PaddingRight=3
+PaddingBottom=3
+PaddingLeft=3
 
-BorderRight=14
-BorderBottom=14
-BorderLeft=14
+BorderRight=0
+BorderBottom=0
+BorderLeft=0
 
 TitleHeight=28
 
