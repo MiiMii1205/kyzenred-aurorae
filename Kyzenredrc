@@ -24,9 +24,9 @@ PaddingRight=3
 PaddingBottom=3
 PaddingLeft=3
 
-BorderRight=0
-BorderBottom=0
-BorderLeft=0
+BorderRight=1
+BorderBottom=1
+BorderLeft=1
 
 TitleHeight=28
 
