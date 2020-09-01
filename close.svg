@@ -13,7 +13,7 @@
    height="22"
    version="1.1"
    sodipodi:docname="close.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -22,10 +22,11 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-    <style
+  <style
      id="current-color-scheme" />
   <defs
      id="defs22" />
@@ -38,17 +39,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1708"
-     inkscape:window-height="1284"
+     inkscape:window-width="1718"
+     inkscape:window-height="1407"
      id="namedview20"
      showgrid="false"
-     inkscape:zoom="1.8963318"
-     inkscape:cx="4.2480255"
-     inkscape:cy="-21.349606"
+     inkscape:zoom="5.3636363"
+     inkscape:cx="-3.4405767"
+     inkscape:cy="-18.205449"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="deactivated-center" />
+     inkscape:current-layer="svg4306"
+     inkscape:document-rotation="0" />
   <g
      id="active-center">
     <rect
@@ -76,7 +78,7 @@
        x="46"
        y="0" />
     <path
-       class="ColorScheme-Text"
+       class="ColorScheme-ButtonHover"
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path1145-5"
@@ -88,7 +90,7 @@
        id="path145-7-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccc"
-       class="ColorScheme-Text" />
+       class="ColorScheme-ButtonHover" />
   </g>
   <g
      id="inactive-center">
@@ -127,7 +129,7 @@
        x="23"
        y="0" />
     <path
-       class="ColorScheme-Text"
+       class="ColorScheme-ButtonFocus"
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path1145"
@@ -139,6 +141,6 @@
        id="path145-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccc"
-       class="ColorScheme-Text" />
+       class="ColorScheme-ButtonFocus" />
   </g>
 </svg>
