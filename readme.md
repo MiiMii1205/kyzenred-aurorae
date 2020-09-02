@@ -8,7 +8,7 @@ A full KDE theme based on gamer aesthetics and modern minimalism (Aurorae decora
 Just put this repository in your `~/.local/share/aurorae/themes/` directory (make a new one if it doesn't exist)
 
 ## Usage
-The Kyzenred Aurorae theme should work out of the box! Just go into your KDE system manager and open up the [Windows Decoration](https://userbase.kde.org/System_Settings/Windows_Decorations) module.
+The Kyzenred Aurorae theme should work out of the box! Just go into your KDE system manager and go to the [Windows Decoration](https://userbase.kde.org/System_Settings/Windows_Decorations) section.
 
 ## Color schemes
 At its core, Kyzenred comes with its own official color scheme.
